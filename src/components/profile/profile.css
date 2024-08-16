@@ -1,0 +1,13 @@
+.profileCon {
+  background-color: #ffff;
+  width: 367px;
+  padding: 20px;
+  border-radius: 16px;
+  margin: 10px;
+}
+.imgsCon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

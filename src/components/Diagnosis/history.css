@@ -1,0 +1,50 @@
+.diaCon {
+  background-color: #ffff;
+  border-radius: 16px;
+  margin: 10px;
+  padding-bottom: 20px;
+}
+
+.dcol {
+  margin: 5px;
+  height: 290px;
+  overflow: scroll;
+  margin-top: 10px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 10px;
+}
+
+.orgCon {
+  padding: 20px;
+  background-color: #e0f3fa;
+  width: 180px;
+  height: 248px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.tempCon {
+  padding: 20px;
+  background-color: #ffe6e9;
+  width: 180px;
+  height: 248px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.heartCon {
+  padding: 20px;
+  background-color: #ffe6f1;
+  width: 180px;
+  height: 248px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

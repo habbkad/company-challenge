@@ -1,0 +1,54 @@
+.navCon {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 72px;
+  width: 99%;
+  align-items: center;
+  border-radius: 70px;
+  background-color: white;
+}
+.logo {
+  width: 10%;
+}
+
+.mid_links {
+  display: flex;
+  flex-direction: row;
+  width: 40%;
+  justify-content: space-between;
+  align-items: center;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  width: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.details {
+  width: 20%;
+  display: flex;
+  align-items: center;
+}
+.docDed {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.settings {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  justify-content: space-around;
+  width: 60px;
+}
